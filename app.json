@@ -10,7 +10,11 @@
         "START_PIC": {
             "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ  ᴅᴀᴛᴀʙᴀsᴇ",
             "required": true
-        }              
+        },             
+        "SUPPORT_CHAT": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ  ᴅᴀᴛᴀʙᴀsᴇ",
+            "required": true
+        }
     },
     "addons": [
         {
