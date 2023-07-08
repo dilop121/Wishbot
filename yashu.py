@@ -14,7 +14,7 @@ except:
     pass
 
 if not START_PIC:
-    START_PIC = "https://telegra.ph/file/f5bb442ce1fdcc48c57d7.jpg"
+    START_PIC = "https://telegra.ph/file/e54137775814479a18feb.jpg"
 
 if not SUPPORT_CHAT:
     SUPPORT_CHAT = "Spoiled_Community"
@@ -24,8 +24,8 @@ yashu = Client("WHISPER-BOT", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TO
 ALPHA = {}
 
 STXT = "Bot started successfully ✨🥀\n"
-STXT += "For queries and questions : @NotKeshav\n"
-STXT += "Join @SpLBots for community ✨☁️"
+STXT += "For queries and questions : @ISHU_KA_DIL \n"
+STXT += "Join @LOVE_FEELINGS_WILL1 for community ✨☁️"
 
 TXT = "Hello {} ! I'm {}, I can help you to send whispers in various modes !\n\nHit /help to know more !"
 
