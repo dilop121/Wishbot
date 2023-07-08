@@ -1,0 +1,20 @@
+{
+    "name": "ᴀᴀʀᴏʜɪ ᴄʜᴀᴛʙᴏᴛ",
+    "description": "ᴀ ғᴀsᴛᴇsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ with ᴘʏʀᴏɢʀᴀᴍ ɴ ᴘʏ-ᴛɢᴄᴀʟʟs.",
+    "logo": "https://te.legra.ph/file/e4558f53c2f885ec7f209.jpg",    
+    "env": {
+        "BOT_TOKEN": {
+            "description": "ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏɴʟʏ",
+            "required": true
+        },
+        "DATABASE_NAME": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ sϙʟ ᴅᴀᴛᴀʙᴀsᴇ",
+            "required": true
+        }              
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
