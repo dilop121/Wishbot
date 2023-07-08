@@ -7,8 +7,8 @@
             "description": "ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏɴʟʏ",
             "required": true
         },
-        "DATABASE_NAME": {
-            "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ sϙʟ ᴅᴀᴛᴀʙᴀsᴇ",
+        "START_PIC": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ  ᴅᴀᴛᴀʙᴀsᴇ",
             "required": true
         }              
     },
